@@ -36,12 +36,14 @@ nodejs sdk for Tencent AI
 - 计算机视觉
   - 智能鉴黄: tencentAi.imagePorn
   - 暴恐图片识别: tencentAi.imageTerrorism
-  - 身份证OCR识别: tencentAi.ocrIdCard
-  - 名片OCR识别: tencentAi.ocrBc
-  - 行驶证驾驶证OCR识别: tencentAi.ocrDriverLicense
-  - 营业执照OCR识别: tencentAi.ocrBizLicense
-  - 银行卡OCR识别: tencentAi.ocrCreditCard
-  - 通用OCR识别: tencentAi.ocrGeneral
+  - 身份证OCR: tencentAi.ocrIdCard
+  - 名片OCR: tencentAi.ocrBc
+  - 行驶证驾驶证OCR: tencentAi.ocrDriverLicense
+  - 车牌OCR: tencentAi.ocrPlate
+  - 营业执照OCR: tencentAi.ocrBizLicense
+  - 银行卡OCR: tencentAi.ocrCreditCard
+  - 通用OCR: tencentAi.ocrGeneral
+  - 手写体OCR: tencentAi.ocrHandWriting
   - 人脸检测与分析: tencentAi.faceDetect
   - 多人脸检测: tencentAi.faceDetectMulti
   - 人脸对比: tencentAi.faceCompare
