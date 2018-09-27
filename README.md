@@ -30,6 +30,7 @@ nodejs sdk for Tencent AI
   - 语音识别-流式版（AI Lab）: tencentAi.aaiAsrs
   - 语音识别-流式版(WeChat AI): tencentAi.aaiWxasrs
   - 长语音识别: tencentAi.aaiWxasrlong
+  - 关键词检索: tencentAi.aaiDetectKeyword
   - 语音合成（AI Lab）: tencentAi.aaiTts
   - 语音合成（优图）: tencentAi.aaiTta
 - 计算机视觉
