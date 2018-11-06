@@ -35,6 +35,7 @@ nodejs sdk for Tencent AI
   - 语音合成（优图）: tencentAi.aaiTta
 - 计算机视觉
   - 智能鉴黄: tencentAi.imagePorn
+  - 音频鉴黄: tencentAi.aaiEvilAudio
   - 暴恐图片识别: tencentAi.imageTerrorism
   - 身份证OCR: tencentAi.ocrIdCard
   - 名片OCR: tencentAi.ocrBc
