@@ -78,6 +78,6 @@ const TencentAI = require('tencent-ai-nodejs-sdk')
 
 const tencentAi = new TencentAI(appId, appKey)
 
-const result = await tencentAi.wordSeg('今天深圳的天气怎么样？明天呢')
+const result = await tencentAi.nlpWordSeg('今天深圳的天气怎么样？明天呢')
 
 ```
