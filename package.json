@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/reezon/tencent-ai-nodejs-sdk#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "iconv": "^2.3.0",
     "md5": "^2.2.1",
     "uuid": "^3.2.1"
